@@ -3,13 +3,14 @@ target/
 *.war
 *.class
 
-# IntelliJ IDEA
+# IntelliJ
 .idea/
 *.iml
-*.iws
-*.ipr
 
-
+# Screenshots (à NE PAS envoyer)
+*.png
+capture*.png
+screenshots/
 
 # OS
 .DS_Store
